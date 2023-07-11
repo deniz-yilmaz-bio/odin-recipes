@@ -2,19 +2,22 @@ h1 {
   text-align: center;
   font-weight: bolder;
   font-size: 50px;
-  font-family: Helvetica, Arial, sans-serif;
 }
 
-img.landing {
+img {
   margin-left: auto;
   display: block;
   margin-right: auto;
   width: auto;
+}
+
+img.landing {
   height: 500px;
 }
 
 body {
   background-color: rgb(243, 225, 147);
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 div.container {
@@ -25,7 +28,6 @@ ul.recipes {
   display: inline-block;
   text-align: center;
   list-style: none;
-  font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 25px;
 }
