@@ -4,3 +4,9 @@ h1 {
   font-size: 50px;
   font-family: Helvetica, Arial, sans-serif;
 }
+
+img {
+  margin-left: auto;
+  display: block;
+  margin-right: auto;
+}
