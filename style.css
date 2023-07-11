@@ -9,8 +9,23 @@ img {
   margin-left: auto;
   display: block;
   margin-right: auto;
+  width: auto;
+  height: 500px;
 }
 
 body {
   background-color: rgb(243, 225, 147);
+}
+
+div.container {
+  text-align: center;
+}
+
+ul.recipes {
+  display: inline-block;
+  text-align: center;
+  list-style: none;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
 }
