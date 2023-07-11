@@ -10,3 +10,7 @@ img {
   display: block;
   margin-right: auto;
 }
+
+body {
+  background-color: rgb(243, 225, 147);
+}
