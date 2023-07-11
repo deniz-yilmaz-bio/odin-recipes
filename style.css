@@ -33,3 +33,12 @@ ul.recipes {
 a.noline {
   text-decoration: none;
 }
+
+a:link,
+a:visited {
+  color: rgb(231, 127, 0);
+}
+
+a:hover {
+  color: rgb(196, 109, 3);
+}
