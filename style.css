@@ -15,6 +15,10 @@ img.landing {
   height: 500px;
 }
 
+img.fish {
+  height: 800px;
+}
+
 body {
   background-color: rgb(243, 225, 147);
   font-family: Helvetica, Arial, sans-serif;
