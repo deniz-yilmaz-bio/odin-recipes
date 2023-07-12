@@ -58,6 +58,7 @@ ul.ingredients {
 }
 
 ol.steps {
+  display: inline-block;
   margin-top: 5px;
   text-align: left;
   margin-bottom: 5px;
